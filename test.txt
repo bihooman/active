@@ -2,5 +2,3 @@ hello
 world
 apple
 online
-
-this is master
