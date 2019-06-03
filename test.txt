@@ -7,5 +7,6 @@ create brance dev
 
 
 public function login(){
+	echo 'hello';
 	return true;
 }
